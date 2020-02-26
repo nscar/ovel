@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c195cb687e327b63db12797f4e8da0b",
+    "revision": "413a2a89c6f12a4864b061a765af6983",
     "url": "/ovel/index.html"
   },
   {
-    "revision": "2f9b12648f959d23d20b",
+    "revision": "b9763dbe52eb20499f7d",
     "url": "/ovel/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ovel/static/js/2.bdee2603.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f9b12648f959d23d20b",
-    "url": "/ovel/static/js/main.a024e21a.chunk.js"
+    "revision": "b9763dbe52eb20499f7d",
+    "url": "/ovel/static/js/main.4134b252.chunk.js"
   },
   {
     "revision": "8e50a6e061e7ac51c3f0",
