@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ovel/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ovel/static/js/main.4134b252.chunk.js",
-    "main.js.map": "/ovel/static/js/main.4134b252.chunk.js.map",
+    "main.js": "/ovel/static/js/main.973e937a.chunk.js",
+    "main.js.map": "/ovel/static/js/main.973e937a.chunk.js.map",
     "runtime-main.js": "/ovel/static/js/runtime-main.b7f314ed.js",
     "runtime-main.js.map": "/ovel/static/js/runtime-main.b7f314ed.js.map",
     "static/js/2.bdee2603.chunk.js": "/ovel/static/js/2.bdee2603.chunk.js",
     "static/js/2.bdee2603.chunk.js.map": "/ovel/static/js/2.bdee2603.chunk.js.map",
     "index.html": "/ovel/index.html",
-    "precache-manifest.a1d4ce5a2f3c89e46208f45dc00240f3.js": "/ovel/precache-manifest.a1d4ce5a2f3c89e46208f45dc00240f3.js",
+    "precache-manifest.880e0f5b566d079d3152c96c875d00c3.js": "/ovel/precache-manifest.880e0f5b566d079d3152c96c875d00c3.js",
     "service-worker.js": "/ovel/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/ovel/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.bdee2603.chunk.js.LICENSE.txt": "/ovel/static/js/2.bdee2603.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b7f314ed.js",
     "static/js/2.bdee2603.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4134b252.chunk.js"
+    "static/js/main.973e937a.chunk.js"
   ]
 }
