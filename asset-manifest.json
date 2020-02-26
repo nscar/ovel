@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ovel/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ovel/static/js/main.a024e21a.chunk.js",
+    "main.js.map": "/ovel/static/js/main.a024e21a.chunk.js.map",
+    "runtime-main.js": "/ovel/static/js/runtime-main.b7f314ed.js",
+    "runtime-main.js.map": "/ovel/static/js/runtime-main.b7f314ed.js.map",
+    "static/js/2.bdee2603.chunk.js": "/ovel/static/js/2.bdee2603.chunk.js",
+    "static/js/2.bdee2603.chunk.js.map": "/ovel/static/js/2.bdee2603.chunk.js.map",
+    "index.html": "/ovel/index.html",
+    "precache-manifest.e8e0b046a356b4b76ca2ff4290ec6a24.js": "/ovel/precache-manifest.e8e0b046a356b4b76ca2ff4290ec6a24.js",
+    "service-worker.js": "/ovel/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ovel/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bdee2603.chunk.js.LICENSE.txt": "/ovel/static/js/2.bdee2603.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ovel/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7f314ed.js",
+    "static/js/2.bdee2603.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a024e21a.chunk.js"
+  ]
+}
